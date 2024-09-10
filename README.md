@@ -3,7 +3,7 @@
 
 
 ### Big Mart Sales Prediction Using Machine Learning
-- Created a sales prediction model for Big Mart using Gradient Boosting Regressor, achieving high accuracy.
+- Created a sales prediction model for Big Mart using Gradient Boosting Regressor, Lowest MSE and assessed by the R2 Score.
 - Performed detailed Exploratory Data Analysis (EDA) and handled missing data.
 - Applied feature encoding and used libraries such as Pandas, NumPy, Seaborn, Scikit-Learn, and joblib for model training and evaluation.
 - Technologies used: Pandas, NumPy, Seaborn, Scikit-Learn, Gradient Boosting, joblib, Python.
