@@ -27,3 +27,16 @@
 - Applied OpenCV for image preprocessing and assessed model performance using confusion matrices.
 - Deployed a real-time digit recognition system.
 - Technologies integrated: TensorFlow, Keras, OpenCV, Python.
+-----------------------------------------------------------------------------------------------
+
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  streamlit run filename.py
+```
+
+
