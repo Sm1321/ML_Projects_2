@@ -9,6 +9,7 @@
 - Technologies used: Pandas, NumPy, Seaborn, Scikit-Learn, Gradient Boosting, joblib, Python.
 
 
+------------------------------------------------------------------------------------------------
 
 ### Sentiment Analysis of Tweets Using Random Forest
 - Developed a sentiment analysis model leveraging the Sentiment140 dataset.
@@ -17,6 +18,8 @@
 - Implemented a real-time sentiment prediction web application via Streamlit.
 - Technologies employed: Python, Pandas, NLTK, Scikit-Learn, TF-IDF, Random Forest, Streamlit.
 
+
+------------------------------------------------------------------------------------------------
 
 ### Handwritten Digit Recognition Using Convolutional Neural Networks
 - Designed and constructed a Convolutional Neural Network with 98.56% accuracy on the MNIST dataset.
